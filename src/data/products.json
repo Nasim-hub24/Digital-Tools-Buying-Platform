@@ -1,0 +1,164 @@
+[
+  {
+    "id": 1,
+    "name": "Resume Builder Pro",
+    "description": "Create ATS-friendly resumes in minutes with AI-assisted phrasing and clean typography.",
+    "price": 19,
+    "period": "one-time",
+    "tag": "Popular",
+    "tagType": "popular",
+    "features": [
+      "100+ Designer Templates",
+      "ATS Optimization Engine",
+      "Export to PDF & Word",
+      "Real-time Preview"
+    ],
+    "icon": "FileText",
+    "rating": 4.9,
+    "downloads": "14.2k"
+  },
+  {
+    "id": 2,
+    "name": "SaaS UI Design Kit",
+    "description": "Comprehensive Figma design system with 800+ components, auto-layout 5.0, and tokenized variables.",
+    "price": 49,
+    "period": "one-time",
+    "tag": "Best Seller",
+    "tagType": "bestseller",
+    "features": [
+      "800+ Figma Components",
+      "Light & Dark Theme Tokens",
+      "Full Mobile & Desktop Grid",
+      "Lifetime Free Updates"
+    ],
+    "icon": "Layout",
+    "rating": 5.0,
+    "downloads": "28.5k"
+  },
+  {
+    "id": 3,
+    "name": "AI Prompt Engineering Suite",
+    "description": "Over 2,500 curated, tested AI prompts for GPT-4, Claude 3.5, and Midjourney to 10x your workflow.",
+    "price": 29,
+    "period": "one-time",
+    "tag": "New",
+    "tagType": "new",
+    "features": [
+      "2,500+ Production Prompts",
+      "Categorized Notion Hub",
+      "Copy-paste Snippets",
+      "Prompt Optimization Guide"
+    ],
+    "icon": "Sparkles",
+    "rating": 4.8,
+    "downloads": "9.1k"
+  },
+  {
+    "id": 4,
+    "name": "Notion Ultimate Workspace",
+    "description": "All-in-one Second Brain & Business operating system for solo founders, freelancers, and small teams.",
+    "price": 39,
+    "period": "one-time",
+    "tag": "Popular",
+    "tagType": "popular",
+    "features": [
+      "Project & Sprint Planner",
+      "Client CRM & Invoicing",
+      "Finance & Goal Tracking",
+      "Video Onboarding Tutorial"
+    ],
+    "icon": "Layers",
+    "rating": 4.9,
+    "downloads": "18.3k"
+  },
+  {
+    "id": 5,
+    "name": "FullStack Next.js Starter",
+    "description": "Production-ready boilerplate with Auth, Stripe subscriptions, Tailwind CSS, Prisma & Supabase setup.",
+    "price": 79,
+    "period": "one-time",
+    "tag": "Featured",
+    "tagType": "featured",
+    "features": [
+      "Next.js 15 App Router",
+      "Stripe Checkout & Webhooks",
+      "Supabase & Prisma ORM",
+      "Pre-built Admin Dashboard"
+    ],
+    "icon": "Code2",
+    "rating": 5.0,
+    "downloads": "11.7k"
+  },
+  {
+    "id": 6,
+    "name": "Social Media Content Engine",
+    "description": "365 days of high-converting social media hooks, carousel templates, and viral video scripts.",
+    "price": 24,
+    "period": "one-time",
+    "tag": "Best Seller",
+    "tagType": "bestseller",
+    "features": [
+      "365 Days Content Calendar",
+      "Canva & Figma Templates",
+      "Hook Generation Formula",
+      "Engagement Analytics Sheet"
+    ],
+    "icon": "Share2",
+    "rating": 4.7,
+    "downloads": "22.4k"
+  },
+  {
+    "id": 7,
+    "name": "Financial Modeling Toolkit",
+    "description": "Dynamic Excel & Google Sheets financial models for startups, valuation, cap tables, and cashflow projections.",
+    "price": 45,
+    "period": "one-time",
+    "tag": "New",
+    "tagType": "new",
+    "features": [
+      "5-Year Forecast Model",
+      "SaaS Unit Economics Matrix",
+      "Investor Pitch Ready",
+      "Automated KPI Charts"
+    ],
+    "icon": "TrendingUp",
+    "rating": 4.8,
+    "downloads": "7.9k"
+  },
+  {
+    "id": 8,
+    "name": "SEO & GEO Audit Master",
+    "description": "Checklist and automated auditing template to rank on Google search and AI generative engines.",
+    "price": 34,
+    "period": "one-time",
+    "tag": "Featured",
+    "tagType": "featured",
+    "features": [
+      "150+ Point SEO Checklist",
+      "Generative Engine SEO Guide",
+      "Schema Markup Builder",
+      "Competitor Gap Analysis"
+    ],
+    "icon": "Search",
+    "rating": 4.9,
+    "downloads": "13.6k"
+  },
+  {
+    "id": 9,
+    "name": "Brand Identity Master Kit",
+    "description": "Complete branding system guidelines, typography scales, color harmony palettes, and mockups.",
+    "price": 39,
+    "period": "one-time",
+    "tag": "Popular",
+    "tagType": "popular",
+    "features": [
+      "Brand Guidelines Template",
+      "50+ Vector Logo Marks",
+      "Color Contrast Checkers",
+      "Commercial Use License"
+    ],
+    "icon": "Palette",
+    "rating": 4.9,
+    "downloads": "16.8k"
+  }
+]
